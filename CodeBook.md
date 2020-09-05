@@ -1,6 +1,6 @@
 ## Getting and Cleaning Data Project
 
-Author: Harsh Shelar
+Author: Harsh Shelar<br />
 Dataset: [Human Activity Recognition Using Smartphones Data Set](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 ### Abstract
